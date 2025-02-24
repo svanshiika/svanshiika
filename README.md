@@ -41,7 +41,6 @@
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/vanshiika21/)  
 - 📧 Email: svanshiika@gmail.com  
-
-*“Data is the new oil, but insight is the spark that ignites it.”* 🚀  
+ 
 ## 💡 Fun Fact
 ⚡ "Data is the new oil, but insight is the spark that ignites it!" 🚀  
