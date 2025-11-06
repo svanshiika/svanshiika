@@ -1,22 +1,30 @@
-<div align="center">
-  <span style="color:#e48cb4; font-size:38px; font-weight:700; line-height:1.4;">Vanshika Sharma</span><br>
-  <span style="color:#e48cb4; font-size:18px; font-weight:500;">Data Science • Machine Learning • Analytics</span><br>
-  <span style="color:#e48cb4; font-size:14px; font-style:italic;">(but most people call me Vans)</span>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vanshika%20Sharma-%23E48CB4?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Data Science • Machine Learning • Analytics</b><br>
+  (but most people call me <b>Vans</b>)
+</p>
 
 ---
 
-### <div align="center"><span style="color:#e48cb4;">🌷 about me</span></div>
+### 🌷 About Me
 
-<span style="color:#e48cb4;">
-hey! i'm vanshika — a girl who genuinely loves:
+hey! i'm vanshika — a girl who genuinely loves:  
 - reading data like it's gossip 💌  
 - training ML models like they're pets 🐾  
 - making everything look *cute* while being *smart* 🎀  
 
 i study **BSc (Hons) in Data Science** @ National College of Ireland  
 and i like mixing **math + creativity + storytelling** ✨  
-</span>
+
+---
+
+<p align="center">
+  I work on extracting insight from data, designing machine learning models,<br>
+  and communicating results clearly and effectively.
+</p>
 
 ---
 
