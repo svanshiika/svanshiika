@@ -1,24 +1,29 @@
 <div align="center">
-  <span style="color:#e48cb4; font-size:36px; font-weight:600;">Vanshika Sharma</span><br>
-  <span style="color:#e48cb4; font-size:18px;">Data Science • Machine Learning • Analytics</span><br>
-  <span style="color:#e48cb4;">(but most people call me Vans)</span>
+  <span style="color:#e48cb4; font-size:38px; font-weight:700; line-height:1.4;">Vanshika Sharma</span><br>
+  <span style="color:#e48cb4; font-size:18px; font-weight:500;">Data Science • Machine Learning • Analytics</span><br>
+  <span style="color:#e48cb4; font-size:14px; font-style:italic;">(but most people call me Vans)</span>
 </div>
 
 ---
 
-### 🌷 about me
+### <div align="center"><span style="color:#e48cb4;">🌷 about me</span></div>
 
+<span style="color:#e48cb4;">
 hey! i'm vanshika — a girl who genuinely loves:
-- reading data like it's gossip 💌
-- training ML models like they're pets 🐾
-- making everything look *cute* while being *smart* 🎀
+- reading data like it's gossip 💌  
+- training ML models like they're pets 🐾  
+- making everything look *cute* while being *smart* 🎀  
 
 i study **BSc (Hons) in Data Science** @ National College of Ireland  
 and i like mixing **math + creativity + storytelling** ✨  
+</span>
 
 ---
+
 <div align="center">
-  <span style="color:#e48cb4;">I work on extracting insight from data, designing machine learning models, and communicating results clearly and effectively.</span>
+  <span style="color:#e48cb4; font-size:15px;">
+    I work on extracting insight from data, designing machine learning models, and communicating results clearly and effectively.
+  </span>
 </div>
 
 ---
