@@ -1,52 +1,100 @@
-<!-- Accent badges = your pink “font” -->
-<p align="center">
-  <img alt="Discipline" src="https://img.shields.io/badge/Data%20Science-%23E48CB4.svg?style=for-the-badge">
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-%23E48CB4.svg?style=for-the-badge">
-  <img alt="Analytics" src="https://img.shields.io/badge/Analytics-%23E48CB4.svg?style=for-the-badge">
-</p>
-
-# Hey, I’m Vanshika — but people call me **Vans** ✨
-
-I build **data science** and **machine learning** solutions with a focus on clear methodology, rigorous evaluation, and communication that business stakeholders can act on. Minimal fluff, maximum signal. 💻
-
-[LinkedIn](https://www.linkedin.com/in/vanshiika21/) • Email: **svanshiika@gmail.com**
+<div align="center">
+  <span style="color:#e48cb4; font-size:36px; font-weight:600;">Vanshika Sharma</span><br>
+  <span style="color:#e48cb4; font-size:18px;">Data Science • Machine Learning • Analytics</span><br>
+  <span style="color:#e48cb4;">(but most people call me Vans)</span>
+</div>
 
 ---
 
-## Core Skills ✨
-**Languages:** Python, R, SQL  
-**ML & Stats:** Regression, Classification, Random Forests, XGBoost, Clustering, PCA, Model Evaluation  
-**Data Ops:** Pandas, NumPy, tidyverse, dplyr  
-**Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Tableau  
-**Workflow:** Git/GitHub, Jupyter, RStudio, VS Code  
-**Cloud/Services:** AWS, IBM Watson
+<div align="center">
+  <span style="color:#e48cb4;">I work on extracting insight from data, designing machine learning models, and communicating results clearly and effectively.</span>
+</div>
 
 ---
 
-## Featured Projects 💻
+### <span style="color:#e48cb4;">💻 Technical Skills</span>
 
-### Traffic-Level-Congestion-Dublin-
-Predicts Dublin congestion levels (Low / Medium / High) from temporal + spatial signals; evaluated baseline vs. ensemble models with XGBoost as final selection.  
-**Tech:** Python, Pandas, Scikit-learn, XGBoost, Jupyter
+<table align="center">
+<tr><td>
 
-### Student-Performance-Analysis
-Explores drivers of academic outcomes; regression + PCA to model performance and interpret variance structure.  
-**Tech:** R, tidyverse, ggplot2, PCA, Regression
+<span style="color:#e48cb4;">**Languages:** Python, R, SQL  
+**Machine Learning:** Regression, Classification, XGBoost, Random Forest, Clustering, PCA  
+**Data Handling:** Pandas, NumPy, tidyverse, dplyr  
+**Visualization:** Matplotlib, Seaborn, ggplot2, Plotly, Tableau  
+**Tools:** Git/GitHub, Jupyter, RStudio, VSCode  
+**Cloud:** AWS, IBM Watson</span>
 
-### Beauty-Product-Star-Rating-Prediction
-Predicts review star ratings from text; NLP feature engineering + supervised ML.  
-**Tech:** Python, NLP (vectorization/featurization), Scikit-learn, Jupyter
+</td></tr>
+</table>
 
-### Employment-and-Digital-Transformation-in-Ireland
-Data analysis on employment & digital transformation indicators with clear narrative visuals.  
-**Tech:** (Mixed) Python/R, Tableau (per repo context)
+---
 
-### digital-transformation-ireland
-CSO-driven analysis of digital transformation trends with dashboards for stakeholder interpretation.  
-**Tech:** Tableau, Python/R (per repo context)
+### <div align="center"><span style="color:#e48cb4;">✨ Featured Projects</span></div>
 
-### Socioeconomic-Performance-Data-Analysis
-Statistical exploration of socioeconomic factors and performance metrics across datasets.  
-**Tech:** R/Python, Stats, Visualization
+<table align="center">
+<thead>
+<tr>
+<th><span style="color:#e48cb4;">Project</span></th>
+<th><span style="color:#e48cb4;">Description</span></th>
+<th><span style="color:#e48cb4;">Technologies</span></th>
+</tr>
+</thead>
 
-> Full repository list on my profile for details and notebooks.
+<tbody>
+
+<tr>
+<td><span style="color:#e48cb4;">Dublin Traffic Congestion Prediction</span></td>
+<td><span style="color:#e48cb4;">Predicts traffic congestion levels using spatial + temporal patterns, selecting XGBoost as final best model.</span></td>
+<td><span style="color:#e48cb4;">Python, Pandas, Scikit-Learn, XGBoost, Jupyter</span></td>
+</tr>
+
+<tr>
+<td><span style="color:#e48cb4;">Student Performance Analysis</span></td>
+<td><span style="color:#e48cb4;">Explores academic outcome drivers; regression & PCA to interpret score variation.</span></td>
+<td><span style="color:#e48cb4;">R, tidyverse, ggplot2, dplyr, PCA</span></td>
+</tr>
+
+<tr>
+<td><span style="color:#e48cb4;">Beauty Product Star Rating Prediction</span></td>
+<td><span style="color:#e48cb4;">Predicts product ratings using review text; feature extraction + supervised ML.</span></td>
+<td><span style="color:#e48cb4;">Python, NLP, Scikit-Learn, Jupyter</span></td>
+</tr>
+
+<tr>
+<td><span style="color:#e48cb4;">Stock Market Dashboard</span></td>
+<td><span style="color:#e48cb4;">Interactive dashboard tracking market movement and volatility.</span></td>
+<td><span style="color:#e48cb4;">Python, Plotly, yFinance</span></td>
+</tr>
+
+<tr>
+<td><span style="color:#e48cb4;">Library Management Database</span></td>
+<td><span style="color:#e48cb4;">SQL-based relational database for systemized record management.</span></td>
+<td><span style="color:#e48cb4;">SQL, ERD, Schema Design</span></td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+### <span style="color:#e48cb4;">💗 What I Value</span>
+
+<span style="color:#e48cb4;">
+- Clarity in communication  
+- Well-structured analysis  
+- Thoughtful visual storytelling  
+- Growth over perfection  
+</span>
+
+---
+
+### <span style="color:#e48cb4;">📫 Contact</span>
+
+<span style="color:#e48cb4;">Email:</span> `svanshiika@gmail.com`  
+<span style="color:#e48cb4;">LinkedIn:</span> https://www.linkedin.com/in/vanshiika21/
+
+---
+
+<div align="center">
+  <span style="color:#e48cb4; font-style:italic;">✨ Precision with personality. ✨</span>
+</div>
