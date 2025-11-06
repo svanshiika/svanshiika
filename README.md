@@ -1,46 +1,66 @@
-# 👋 Hi there, I'm Vanshika Sharma!
 
-🎓 **BSc (Hons) in Data Science** | National College of Ireland  
-💻 Passionate about **Data Science**, **Machine Learning**, and **Statistical Analysis**  
-📊 Recent Project: [Student Performance Analysis](https://github.com/svanshiika/Student-Performance-Analysis)
+<h1 align="center" style="color:#e4b6cb;">✨ Hey, I'm Vanshika — but everyone calls me *Vans* ✨</h1>
 
----
-
-## 🚀 Technologies & Tools
-- **Languages:** Python | R | SQL  
-- **Data Science:** Pandas | NumPy | Scikit-Learn | ggplot2 | dplyr  
-- **Data Visualization:** Tableau | Plotly | ggplot2 | ggvis  
-- **Tools:** GitHub | RStudio | Jupyter Notebooks | VSCode  
-- **Cloud:** AWS | IBM Watson  
+<p align="center">
+  Data Science | Machine Learning | Analytics <br>
+  Blending logic with aesthetics — because technical work can be beautiful too.
+</p>
 
 ---
 
-## 🌱 About Me
-- 🔭 I’m currently exploring the fields of **Data Science** and **Machine Learning**.  
-- 🌱 Continuously learning **R**, **Python**, and **SQL** for data-driven solutions.  
-- 👯 I’m looking to collaborate on **data analysis** and **machine learning** projects.  
-- 💬 Ask me about **data visualization**, **statistical modeling**, or any fun **R** hacks!  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vanshiika21/) | Email: svanshiika@gmail.com  
+### 🌸 About Me
+I am a Data Science student who truly enjoys **understanding data, building machine learning models**, and transforming insights into clear stories.  
+I lean into **soft aesthetics**, but my work is **precise, structured, and analytical** — both can co-exist beautifully.  
+I believe in:
+- thoughtful design,
+- meaningful analysis,
+- and continuous learning.
 
 ---
 
-## 🎨 Hobbies & Interests
-- 🌿 **Gardening** — I love spending time outdoors nurturing plants.  
-- ✈️ **Traveling** — Exploring new places and experiencing diverse cultures.  
-- 🎤 **Singing** — I enjoy singing in my free time, it helps me relax and unwind.  
+### 💻 Technical Skills
+
+**Languages:** Python, R, SQL  
+**Machine Learning:** Logistic Regression, Random Forest, XGBoost, Clustering, PCA  
+**Data Handling:** Pandas, NumPy, dplyr, tidyverse  
+**Visualization:** Matplotlib, Seaborn, ggplot2, Plotly, Tableau  
+**Tools:** Git, GitHub, Jupyter Notebook, RStudio, VSCode  
+**Cloud & Services:** AWS, IBM Watson  
+
+> I write code that is clean, modular, and well-documented — both for collaboration and future reflection.
 
 ---
 
-## 📈 Recent Work
-- 🔥 **[Student Performance Analysis](https://github.com/svanshiika/Student-Performance-Analysis)** — Using regression and PCA to predict student exam scores based on various factors.  
-- 📊 **Stock Market Dashboard** — Analyzed real-time stock data using Python, Plotly, and yFinance.  
-- 🏆 **Library Management System** — Developed SQL database for library systems (Advanced Databases project).  
+### ✨ Selected Projects
+
+| Project | Description | Technologies |
+|--------|-------------|--------------|
+| **Dublin Traffic Congestion Prediction** | Predicted traffic levels (Low / Medium / High) using spatial & temporal features. | Python, Pandas, Scikit-Learn, XGBoost, Jupyter |
+| **Student Performance Analysis** | Built models to understand and predict academic outcomes. | R, Regression, PCA, ggplot2, tidyverse |
+| **Stock Market Dashboard** | Designed an interactive dashboard for monitoring live market patterns. | Python, Plotly, yFinance, Jupyter |
+| **Mental Health & Workload Insights** | Analyzed survey data to understand burnout signals among students. | Python, Seaborn, Statistical Inference |
+| **Sales Forecasting Model** | Time-series forecasting to predict demand and inventory needs. | Python, Pandas, ARIMA/ML Models |
+| **Library Management Database** | Designed a relational database system for book and user management. | SQL, Schema Design, ER Diagrams |
+
+> I have more repositories featuring: classification models, clustering visualizations, data cleaning pipelines, exploratory insights, and dashboard design.
 
 ---
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/vanshiika21/)  
-- 📧 Email: svanshiika@gmail.com  
- 
-## 💡 Fun Fact
-⚡ "Data is the new oil, but insight is the spark that ignites it!" 🚀  
+### 💗 What I Value
+- Clarity in communication  
+- Well-structured analysis  
+- Thoughtful visual storytelling  
+- Growth over perfection  
+
+---
+
+### 📫 Contact
+**Email:** `svanshiika@gmail.com`  
+**LinkedIn:** *send me your link and I’ll add it here beautifully*  
+
+---
+
+<p align="center" style="color:#e4b6cb;">
+✨ “Data is information — understanding is the elegance.” ✨
+</p>
+
