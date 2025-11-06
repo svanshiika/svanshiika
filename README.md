@@ -26,13 +26,6 @@ and i like mixing **math + creativity + storytelling** ✨
   and communicating results clearly and effectively.
 </p>
 
----
-
-<div align="center">
-  <span style="color:#e48cb4; font-size:15px;">
-    I work on extracting insight from data, designing machine learning models, and communicating results clearly and effectively.
-  </span>
-</div>
 
 ---
 
