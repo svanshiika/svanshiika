@@ -1,54 +1,52 @@
-<h1 align="center" style="color:#d86b9d; font-weight:600;">Vanshika Sharma</h1>
-<p align="center" style="color:#d86b9d;">Data Science • Machine Learning • Analytics</p>
-<p align="center"><a href="https://www.linkedin.com/in/vanshiika21/" style="color:#d86b9d;">LinkedIn</a> • <a href="mailto:svanshiika@gmail.com" style="color:#d86b9d;">Email</a></p>
-
----
-
-### 🌸 Introduction
-Hello, I’m **Vanshika** — but most people call me **Vans**.  
-I work in the intersection of **data science, analytical modeling, and machine learning**, with a focus on building accurate and interpretable models.  
-My approach is **methodical, research-oriented, and structured**, supported by strong statistical reasoning and clean implementation.
-
-I enjoy transforming complex datasets into meaningful insights and developing models that solve real-world challenges.
-
----
-
-### 💻 Technical Competencies
-
-**Languages:** Python, R, SQL  
-**Machine Learning:** Regression, Random Forest, Clustering, XGBoost, PCA, Model Evaluation  
-**Data Analysis:** Pandas, NumPy, tidyverse, dplyr  
-**Visualization:** Matplotlib, Seaborn, ggplot2, Plotly, Tableau  
-**Tools:** Jupyter Notebook, RStudio, GitHub, VS Code  
-**Cloud:** AWS, IBM Watson  
-
----
-
-### 📂 Selected Projects
-
-| Project | Summary | Technologies |
-|--------|---------|--------------|
-| **Dublin Traffic Congestion Prediction** | Predicted traffic congestion levels using temporal & spatial features; evaluated models and selected XGBoost for best performance. | Python, Pandas, Scikit-Learn, XGBoost, Jupyter |
-| **Student Performance Analysis** | Modeled academic outcomes and analyzed variables influencing student results using PCA & regression. | R, tidyverse, PCA, ggplot2 |
-| **Stock Market Interactive Dashboard** | Designed a dashboard to track and explore stock behavior and volatility patterns. | Python, Plotly, yFinance |
-| **Sales Forecasting Model** | Applied time-series forecasting to estimate demand and guide inventory planning. | Python, Pandas, Time-Series ML |
-| **Library Management Database** | Structured and implemented a relational database for record and process management. | SQL, Database Schema Design |
-
----
-
-### 🎯 Current Focus
-- Strengthening applied machine learning workflows  
-- Advancing model generalization and interpretability  
-- Expanding knowledge in real-time data systems  
-
----
-
-### 📫 Contact
-**Email:** `svanshiika@gmail.com`  
-**LinkedIn:** https://www.linkedin.com/in/vanshiika21/
-
----
-
-<p align="center" style="color:#d86b9d; font-style:italic;">
-“Insight is created when data is understood — not just processed.”
+<!-- Accent badges = your pink “font” -->
+<p align="center">
+  <img alt="Discipline" src="https://img.shields.io/badge/Data%20Science-%23E48CB4.svg?style=for-the-badge">
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-%23E48CB4.svg?style=for-the-badge">
+  <img alt="Analytics" src="https://img.shields.io/badge/Analytics-%23E48CB4.svg?style=for-the-badge">
 </p>
+
+# Hey, I’m Vanshika — but people call me **Vans** ✨
+
+I build **data science** and **machine learning** solutions with a focus on clear methodology, rigorous evaluation, and communication that business stakeholders can act on. Minimal fluff, maximum signal. 💻
+
+[LinkedIn](https://www.linkedin.com/in/vanshiika21/) • Email: **svanshiika@gmail.com**
+
+---
+
+## Core Skills ✨
+**Languages:** Python, R, SQL  
+**ML & Stats:** Regression, Classification, Random Forests, XGBoost, Clustering, PCA, Model Evaluation  
+**Data Ops:** Pandas, NumPy, tidyverse, dplyr  
+**Visualization:** Matplotlib, Seaborn, Plotly, ggplot2, Tableau  
+**Workflow:** Git/GitHub, Jupyter, RStudio, VS Code  
+**Cloud/Services:** AWS, IBM Watson
+
+---
+
+## Featured Projects 💻
+
+### Traffic-Level-Congestion-Dublin-
+Predicts Dublin congestion levels (Low / Medium / High) from temporal + spatial signals; evaluated baseline vs. ensemble models with XGBoost as final selection.  
+**Tech:** Python, Pandas, Scikit-learn, XGBoost, Jupyter
+
+### Student-Performance-Analysis
+Explores drivers of academic outcomes; regression + PCA to model performance and interpret variance structure.  
+**Tech:** R, tidyverse, ggplot2, PCA, Regression
+
+### Beauty-Product-Star-Rating-Prediction
+Predicts review star ratings from text; NLP feature engineering + supervised ML.  
+**Tech:** Python, NLP (vectorization/featurization), Scikit-learn, Jupyter
+
+### Employment-and-Digital-Transformation-in-Ireland
+Data analysis on employment & digital transformation indicators with clear narrative visuals.  
+**Tech:** (Mixed) Python/R, Tableau (per repo context)
+
+### digital-transformation-ireland
+CSO-driven analysis of digital transformation trends with dashboards for stakeholder interpretation.  
+**Tech:** Tableau, Python/R (per repo context)
+
+### Socioeconomic-Performance-Data-Analysis
+Statistical exploration of socioeconomic factors and performance metrics across datasets.  
+**Tech:** R/Python, Stats, Visualization
+
+> Full repository list on my profile for details and notebooks.
