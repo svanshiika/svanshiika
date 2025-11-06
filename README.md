@@ -60,18 +60,6 @@
 <td><span style="color:#e48cb4;">Python, NLP, Scikit-Learn, Jupyter</span></td>
 </tr>
 
-<tr>
-<td><span style="color:#e48cb4;">Stock Market Dashboard</span></td>
-<td><span style="color:#e48cb4;">Interactive dashboard tracking market movement and volatility.</span></td>
-<td><span style="color:#e48cb4;">Python, Plotly, yFinance</span></td>
-</tr>
-
-<tr>
-<td><span style="color:#e48cb4;">Library Management Database</span></td>
-<td><span style="color:#e48cb4;">SQL-based relational database for systemized record management.</span></td>
-<td><span style="color:#e48cb4;">SQL, ERD, Schema Design</span></td>
-</tr>
-
 </tbody>
 </table>
 
