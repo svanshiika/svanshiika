@@ -1,66 +1,54 @@
-
-<h1 align="center" style="color:#e4b6cb;">✨ Hey, I'm Vanshika — but everyone calls me *Vans* ✨</h1>
-
-<p align="center">
-  Data Science | Machine Learning | Analytics <br>
-  Blending logic with aesthetics — because technical work can be beautiful too.
-</p>
+<h1 align="center" style="color:#d86b9d; font-weight:600;">Vanshika Sharma</h1>
+<p align="center" style="color:#d86b9d;">Data Science • Machine Learning • Analytics</p>
+<p align="center"><a href="https://www.linkedin.com/in/vanshiika21/" style="color:#d86b9d;">LinkedIn</a> • <a href="mailto:svanshiika@gmail.com" style="color:#d86b9d;">Email</a></p>
 
 ---
 
-### 🌸 About Me
-I am a Data Science student who truly enjoys **understanding data, building machine learning models**, and transforming insights into clear stories.  
-I lean into **soft aesthetics**, but my work is **precise, structured, and analytical** — both can co-exist beautifully.  
-I believe in:
-- thoughtful design,
-- meaningful analysis,
-- and continuous learning.
+### 🌸 Introduction
+Hello, I’m **Vanshika** — but most people call me **Vans**.  
+I work in the intersection of **data science, analytical modeling, and machine learning**, with a focus on building accurate and interpretable models.  
+My approach is **methodical, research-oriented, and structured**, supported by strong statistical reasoning and clean implementation.
+
+I enjoy transforming complex datasets into meaningful insights and developing models that solve real-world challenges.
 
 ---
 
-### 💻 Technical Skills
+### 💻 Technical Competencies
 
 **Languages:** Python, R, SQL  
-**Machine Learning:** Logistic Regression, Random Forest, XGBoost, Clustering, PCA  
-**Data Handling:** Pandas, NumPy, dplyr, tidyverse  
+**Machine Learning:** Regression, Random Forest, Clustering, XGBoost, PCA, Model Evaluation  
+**Data Analysis:** Pandas, NumPy, tidyverse, dplyr  
 **Visualization:** Matplotlib, Seaborn, ggplot2, Plotly, Tableau  
-**Tools:** Git, GitHub, Jupyter Notebook, RStudio, VSCode  
-**Cloud & Services:** AWS, IBM Watson  
-
-> I write code that is clean, modular, and well-documented — both for collaboration and future reflection.
+**Tools:** Jupyter Notebook, RStudio, GitHub, VS Code  
+**Cloud:** AWS, IBM Watson  
 
 ---
 
-### ✨ Selected Projects
+### 📂 Selected Projects
 
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| **Dublin Traffic Congestion Prediction** | Predicted traffic levels (Low / Medium / High) using spatial & temporal features. | Python, Pandas, Scikit-Learn, XGBoost, Jupyter |
-| **Student Performance Analysis** | Built models to understand and predict academic outcomes. | R, Regression, PCA, ggplot2, tidyverse |
-| **Stock Market Dashboard** | Designed an interactive dashboard for monitoring live market patterns. | Python, Plotly, yFinance, Jupyter |
-| **Mental Health & Workload Insights** | Analyzed survey data to understand burnout signals among students. | Python, Seaborn, Statistical Inference |
-| **Sales Forecasting Model** | Time-series forecasting to predict demand and inventory needs. | Python, Pandas, ARIMA/ML Models |
-| **Library Management Database** | Designed a relational database system for book and user management. | SQL, Schema Design, ER Diagrams |
-
-> I have more repositories featuring: classification models, clustering visualizations, data cleaning pipelines, exploratory insights, and dashboard design.
+| Project | Summary | Technologies |
+|--------|---------|--------------|
+| **Dublin Traffic Congestion Prediction** | Predicted traffic congestion levels using temporal & spatial features; evaluated models and selected XGBoost for best performance. | Python, Pandas, Scikit-Learn, XGBoost, Jupyter |
+| **Student Performance Analysis** | Modeled academic outcomes and analyzed variables influencing student results using PCA & regression. | R, tidyverse, PCA, ggplot2 |
+| **Stock Market Interactive Dashboard** | Designed a dashboard to track and explore stock behavior and volatility patterns. | Python, Plotly, yFinance |
+| **Sales Forecasting Model** | Applied time-series forecasting to estimate demand and guide inventory planning. | Python, Pandas, Time-Series ML |
+| **Library Management Database** | Structured and implemented a relational database for record and process management. | SQL, Database Schema Design |
 
 ---
 
-### 💗 What I Value
-- Clarity in communication  
-- Well-structured analysis  
-- Thoughtful visual storytelling  
-- Growth over perfection  
+### 🎯 Current Focus
+- Strengthening applied machine learning workflows  
+- Advancing model generalization and interpretability  
+- Expanding knowledge in real-time data systems  
 
 ---
 
 ### 📫 Contact
 **Email:** `svanshiika@gmail.com`  
-**LinkedIn:** *send me your link and I’ll add it here beautifully*  
+**LinkedIn:** https://www.linkedin.com/in/vanshiika21/
 
 ---
 
-<p align="center" style="color:#e4b6cb;">
-✨ “Data is information — understanding is the elegance.” ✨
+<p align="center" style="color:#d86b9d; font-style:italic;">
+“Insight is created when data is understood — not just processed.”
 </p>
-
