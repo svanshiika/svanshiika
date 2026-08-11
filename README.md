@@ -11,12 +11,9 @@
 
 ### 🌷 About Me
 
-hey! i'm vanshika — a girl who genuinely loves:  
-- reading data like it's gossip 💌  
-- training ML models like they're pets 🐾  
-- making everything look *cute* while being *smart* 🎀  
+Hey! I'm vanshika  
 
-i study **BSc (Hons) in Data Science** @ National College of Ireland  
+I study **BSc (Hons) in Data Science** @ National College of Ireland  
 and i like mixing **math + creativity + storytelling** ✨  
 
 ---
